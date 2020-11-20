@@ -1,6 +1,6 @@
 # To-do list app on React
 
-### In this application, the user can:
+### In this application, user can:
 
 Add to-do list and delete them.
 
