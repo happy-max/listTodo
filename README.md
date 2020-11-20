@@ -2,7 +2,7 @@
 
 ### In this application, user can:
 
-Add to-do list and delete them.
+Add to-do list and delete.
 
 Highlight as major and mark as done.
 
