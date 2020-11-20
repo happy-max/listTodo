@@ -1,0 +1,7 @@
+.app{
+    max-width: 450px;
+    margin: 50px auto;
+}
+.search-filter{
+    display: flex;
+}

@@ -1,0 +1,52 @@
+.list-group-item {
+    font-size: 17px;
+    line-height: 30px
+}
+
+.list-group {
+    margin: 20px 0 10px;
+}
+
+.list-group li {
+    padding: 5px 20px;
+}
+
+.list-group button {
+    width: 35px;
+    margin-left: 5px;
+}
+.list-group-item-label{
+    cursor: pointer;
+}
+.list-item.done {
+    text-decoration: line-through;
+}
+.list-item.important {
+    font-weight: bold;
+    color: steelblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+.new{
+    display: flex;
+}
+.new button{
+    width: 80px;
+    margin-left: 5px;
+}
+.new button:hover {
+    background-color: #ef6076;
+}

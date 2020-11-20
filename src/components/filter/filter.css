@@ -1,0 +1,6 @@
+.btn-group{
+    width: auto;
+    flex-grow: 1;
+    padding-left: 4px;
+    float: right;
+}
